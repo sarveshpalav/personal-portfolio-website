@@ -35,43 +35,43 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
        
     </div>
   
-    <div  className="centerOnMobile mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+    <div  className=" mx-4 my-4 md:mx-6  md:col-span-4 flex ">
        
-    <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4">
-  <div>
-    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">HTML</span>
+    <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4 ">
+  <div className="centerOnMobile">
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300 ">HTML</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">CSS</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Javascript</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Typescript</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">React</span>
   </div>
-  <div>
+  <div className="centerOnMobile" >
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Angular</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Pulumi IAC</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">CI/CD</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">GIT</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Gitlab</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Wordpress</span>
   </div>
-  <div>
+  <div className="centerOnMobile">
     <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Terminal</span>
   </div>
 </div>
