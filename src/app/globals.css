@@ -45,3 +45,9 @@ body {
 .brief{
   color:#E2E8F0;
 }
+
+@media (max-width: 768px) {
+  .centerOnMobile {
+    justify-self: center;
+  }
+}

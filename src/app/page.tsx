@@ -1,5 +1,8 @@
 
 export default function Home() {
+
+
+
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-8 md:pt-20 md:pl-96 md:pr-96">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full">
@@ -19,20 +22,20 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
         
       
         <div className="grid grid-cols-1 md:grid-cols-8 justify-center gap-4 w-full mt-2 md:col-span-3">
-    <div style={{justifySelf:"center"}}className="mx-5 md:mx-6  col-span-2 flex  ">
+    <div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
         <div >
-            <button style={{width: "10rem"}} type="button" className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Contact Me</button>
+            <button style={{width: "10rem"}} type="button"  className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Contact Me</button>
         </div>
        
     </div>
-    <div style={{justifySelf:"center"}}className="mx-5 md:mx-6  col-span-2 flex  ">
+    <div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
         <div >
-            <button style={{width: "10rem"}} type="button" className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Download Resume</button>
+            <button style={{width: "12rem"}} type="button" className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Download Resume</button>
         </div>
        
     </div>
   
-    <div style={{justifySelf:"center"}} className="mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+    <div  className="centerOnMobile mx-4 my-4 md:mx-6  md:col-span-4 flex ">
        
     <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4">
   <div>
