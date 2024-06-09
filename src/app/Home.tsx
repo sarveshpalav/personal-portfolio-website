@@ -6,7 +6,7 @@ import React from 'react';
 const HomePage: React.FC = () => {
 
   const handleContactClick = () => {
-    const emailAddress = 'sarveshpalav@gmail.com.com'; // Replace with your email address
+    const emailAddress = 'sarveshpalav@gmail.com'; // Replace with your email address
     const subject = 'Contact from Website'; // Optional: Add a subject line
     const body = 'Hello, I would like to get in touch with you regarding...'; // Optional: Add a default message body
   
