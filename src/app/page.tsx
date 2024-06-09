@@ -1,4 +1,3 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -15,7 +14,59 @@ export default function Home() {
 Currently, I work at Optel Group as a Software Consultant, crafting thoughtful and inclusive experiences that adhere to web standards for diverse clients across the traceability domain. I leverage technologies like Python, FastAPI, PostgreSQL, React-TypeScript, and Google Cloud Platform to deliver scalable and reliable solutions.
 
         </div>
+        
+      
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4 w-full mt-2 md:col-span-3 ">
+        <div className=" mx-4 md:mx-0">
+        <button type="button" className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Contact Me</button>
+        <button type="button" className="text-white hover:text-white border border-white-700 hover:bg-white-800 focus:ring-4 focus:outline-none focus:ring-white-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2 dark:border-white-500 dark:text-white dark:hover:text-white dark:hover:bg-white-500 dark:focus:ring-white-800">Download Resume</button>
+
         </div>
+        <div className="font-inter p-6 rounded-lg ">
+        <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4">
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">HTML</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">CSS</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Javascript</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Typescript</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">React</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Angular</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Pulumi IAC</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">CI/CD</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">GIT</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Gitlab</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Wordpress</span>
+  </div>
+  <div>
+    <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300">Terminal</span>
+  </div>
+</div>
+
+       
+        </div>
+        </div>
+        </div>
+       
     </main>
   );
 }
