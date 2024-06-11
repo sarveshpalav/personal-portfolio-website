@@ -200,7 +200,6 @@ Freelance Developer
 
 </div>   
     
-Developed static websites and eCommerce projects with WordPress, WooCommerce, and Elementor.Built dynamic websites and Android applications, including a task management app with 2k+ downloads and a 4.4 rating on Play Store.
     </div>
   );
 }
