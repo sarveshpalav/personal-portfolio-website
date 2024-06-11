@@ -55,7 +55,7 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
    
 </div>
 
-<div  className=" mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+<div  className=" mx-2 my-4 md:mx-6  md:col-span-4 flex ">
    
 <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4 ">
 <div className="centerOnMobile">
@@ -118,7 +118,7 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
     </div>
 </div>
 <div className="centerOnMobile col-span-6">
-<div className="font-inter  text-md brief text-center sm:text-left ">
+<div className="font-inter  text-md  brief pb-2 text-center sm:text-left  ">
 Software Consultant - Optel Group
     </div>
     <div className="font-inter  text-sm brief text-center sm:text-left ">
@@ -153,7 +153,7 @@ Software Consultant - Optel Group
     </div>
 </div>
 <div className="centerOnMobile col-span-6">
-<div className="font-inter  text-md brief text-center sm:text-left ">
+<div className="font-inter  text-md  brief pb-2 text-center sm:text-left ">
 Software Developer - Transerve
     </div>
     <div className="font-inter  text-sm brief text-center sm:text-left ">
@@ -186,7 +186,7 @@ Software Developer - Transerve
     </div>
 </div>
 <div className="centerOnMobile col-span-6">
-<div className="font-inter  text-md brief text-center sm:text-left ">
+<div className="font-inter  text-md brief pb-2 text-center sm:text-left ">
 Freelance Developer
     </div>
     <div className="font-inter  text-sm brief text-center sm:text-left ">
