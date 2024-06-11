@@ -99,8 +99,108 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
 </div>
 
 </div>
+<div className="grid grid-cols-1 md:grid-cols-8 justify-center gap-4 w-full mt-2 md:col-span-3">
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
+   
+   
+</div>
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
     
+   
+</div>
+
+<div  className=" mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+   
+<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-8 gap-4 w-full px-4 ">
+<div className="centerOnMobile col-span-6 md:col-span-2 sm:col-span-1 ">
+  <div className="font-inter  text-sm brief text-center sm:text-left ">
+    2022 - Present
+    </div>
+</div>
+<div className="centerOnMobile col-span-6">
+<div className="font-inter  text-md brief text-center sm:text-left ">
+Software Consultant - Optel Group
+    </div>
+    <div className="font-inter  text-sm brief text-center sm:text-left ">
+    Developed full-stack web applications with Python, FastAPI, PostgreSQL, and React-TypeScript.Implemented unit and behavior-driven tests with Pytest to ensure code reliability.Utilized Pulumi for defining infrastructure as code, simplifying deployments.Containerized applications using Docker, ensuring consistent deployment across environments.Set up CI/CD pipelines to automate build, testing, and deployment processes.
+    </div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
     
+
+<div className="grid grid-cols-1 md:grid-cols-8 justify-center gap-4 w-full mt-2 md:col-span-3">
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
+   
+   
+</div>
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
+    
+   
+</div>
+
+<div  className=" mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+   
+<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-8 gap-4 w-full px-4 ">
+<div className="centerOnMobile col-span-6 md:col-span-2 sm:col-span-1 ">
+  <div className="font-inter  text-sm brief text-center sm:text-left ">
+    2021 - 2022
+    </div>
+</div>
+<div className="centerOnMobile col-span-6">
+<div className="font-inter  text-md brief text-center sm:text-left ">
+Software Developer - Transerve
+    </div>
+    <div className="font-inter  text-sm brief text-center sm:text-left ">
+    Developed web applications with Angular, Node.js, MongoDB, and AWS Cloud.Worked on property tax management systems and spatial data applications.Developed dashboards for data management and analytics for a major Indian bank.Managed Linux servers and application deployment.    </div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>
+
+<div className="grid grid-cols-1 md:grid-cols-8 justify-center gap-4 w-full mt-2 md:col-span-3">
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
+   
+   
+</div>
+<div className="centerOnMobile mx-5 md:mx-6  col-span-2 flex  ">
+    
+   
+</div>
+
+<div  className=" mx-4 my-4 md:mx-6  md:col-span-4 flex ">
+   
+<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-8 gap-4 w-full px-4 ">
+<div className="centerOnMobile col-span-6 md:col-span-2 sm:col-span-1 ">
+  <div className="font-inter  text-sm brief text-center sm:text-left ">
+    2018-2021
+    </div>
+</div>
+<div className="centerOnMobile col-span-6">
+<div className="font-inter  text-md brief text-center sm:text-left ">
+Freelance Developer
+    </div>
+    <div className="font-inter  text-sm brief text-center sm:text-left ">
+    Developed static websites and eCommerce projects with WordPress, WooCommerce, and Elementor.Built dynamic websites and Android applications, including a task management app with 2k+ downloads and a 4.4 rating on Play Store.      </div>
+</div>
+</div>
+
+
+
+</div>
+
+</div>   
+    
+Developed static websites and eCommerce projects with WordPress, WooCommerce, and Elementor.Built dynamic websites and Android applications, including a task management app with 2k+ downloads and a 4.4 rating on Play Store.
     </div>
   );
 }
