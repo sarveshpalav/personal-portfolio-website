@@ -57,7 +57,7 @@ Currently, I work at Optel Group as a Software Consultant, crafting thoughtful a
 
 <div  className=" mx-2 my-4 md:mx-6  md:col-span-4 flex ">
    
-<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 w-full px-4 ">
+<div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4 w-full px-4 ">
 <div className="centerOnMobile">
 <span className="bg-gray-100 text-gray-800 text-sm font-medium px-4 py-1 rounded dark:bg-gray-700 dark:text-gray-300 ">HTML</span>
 </div>
